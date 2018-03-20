@@ -1,6 +1,7 @@
 # canvas-nest
-仿知乎登录页面canvas-nest
 Fork from: ![canvas-nest](https://github.com/sunshine940326/canvas-nest)
+
+仿知乎登录页面canvas-nest
 首先上效果图：
 ![最终效果图](https://user-gold-cdn.xitu.io/2017/5/25/1e1d0d9c85fc910afb169540b33ebe14)
 
