@@ -1,13 +1,8 @@
 # canvas-nest
 仿知乎登录页面canvas-nest
-> 本文首发于我的个人博客：http://cherryblog.site/
-> github项目地址：https://github.com/sunshine940326/canvas-nest
-> 
-
+Fork from: ![canvas-nest](https://github.com/sunshine940326/canvas-nest)
 首先上效果图：
 ![最终效果图](https://user-gold-cdn.xitu.io/2017/5/25/1e1d0d9c85fc910afb169540b33ebe14)
->**因为使用gif图片的原因，线条不是很清晰，大家可以到我的博客观看效果：http://cherryblog.site/ ，（手机也有效果的哦）
-或者直接在github上下载项目源码：github项目地址：https://github.com/sunshine940326/canvas-nest**
 
 实现起来也是很简单的， 按照我的步骤一步一步来就可以了~
 # html代码
