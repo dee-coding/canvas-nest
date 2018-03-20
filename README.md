@@ -1,5 +1,5 @@
 # canvas-nest
-Fork from: ![canvas-nest](https://github.com/sunshine940326/canvas-nest)
+Fork from: https://github.com/sunshine940326/canvas-nest
 
 仿知乎登录页面canvas-nest
 首先上效果图：
